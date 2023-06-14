@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAE", "TD4\SAE.csproj", "{64D2E1FD-31F6-4EA9-A948-7436029FCBB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiblioPuissance4", "..\ClassLibrarySAE\ClassLibrary1\BiblioPuissance4.csproj", "{B9BA75DA-000D-4542-9799-00BC695769BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D2E1FD-31F6-4EA9-A948-7436029FCBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D2E1FD-31F6-4EA9-A948-7436029FCBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D2E1FD-31F6-4EA9-A948-7436029FCBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D2E1FD-31F6-4EA9-A948-7436029FCBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BA75DA-000D-4542-9799-00BC695769BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BA75DA-000D-4542-9799-00BC695769BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BA75DA-000D-4542-9799-00BC695769BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BA75DA-000D-4542-9799-00BC695769BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A166B49-53DB-4D9A-9C67-CADAD03DA705}
+	EndGlobalSection
+EndGlobal
