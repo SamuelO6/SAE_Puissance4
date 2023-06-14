@@ -1,0 +1,12 @@
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\BibliothequeJeu.deps.json
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\BibliothequeJeu.dll
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\BibliothequeJeu.pdb
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.csproj.AssemblyReference.cache
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.AssemblyInfoInputs.cache
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.AssemblyInfo.cs
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.csproj.CoreCompileInputs.cache
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.dll
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\BibliothequeJeu.dll
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\BibliothequeJeu.pdb
+C:\Users\craze\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\BibliothequeJeu.dll

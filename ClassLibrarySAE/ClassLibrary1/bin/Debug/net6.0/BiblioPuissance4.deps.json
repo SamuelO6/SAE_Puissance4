@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BiblioPuissance4/1.0.0": {
+        "runtime": {
+          "BiblioPuissance4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiblioPuissance4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

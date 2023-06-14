@@ -1,0 +1,29 @@
+C:\Users\craze\source\repos\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.AssemblyReference.cache
+C:\Users\craze\source\repos\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craze\source\repos\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfoInputs.cache
+C:\Users\craze\source\repos\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfo.cs
+C:\Users\craze\source\repos\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.AssemblyReference.cache
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfoInputs.cache
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfo.cs
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.deps.json
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.dll
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.pdb
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.dll
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\refint\BiblioPuissance4.dll
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.pdb
+C:\Users\Victor\Downloads\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\ref\BiblioPuissance4.dll
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.deps.json
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.dll
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\bin\Debug\net6.0\BiblioPuissance4.pdb
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.AssemblyInfo.cs
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.dll
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\refint\BiblioPuissance4.dll
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\BiblioPuissance4.pdb
+C:\Users\samue\Documents\BUT Informatique\nouveau\SAE\ClassLibrarySAE\ClassLibrary1\obj\Debug\net6.0\ref\BiblioPuissance4.dll
